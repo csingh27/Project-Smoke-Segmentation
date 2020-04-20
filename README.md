@@ -55,7 +55,7 @@ Extracted dataset combined with old data is in /dataset_updated
 Updated file in Smoke_Segmentation.ipynb (Original Implementation : U-Net.ipynb)  
 New results are in the test_predictions_updated.jpg file
 
-##Improved Results
+## Improved Results
 
 ![Results](./test_predictions_updated.png "Images & annotations")
 
