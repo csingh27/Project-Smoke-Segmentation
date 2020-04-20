@@ -41,6 +41,3 @@ In Kaggle Airbus ship detection challenge, [Kevin Mader](https://www.kaggle.com/
 - The dataset has around 400 images, adding more images to dataset can improve the accuracy
 - Proper annotation of smoke also affects the prediction of the model, maybe the annotations done in the dataset can be improved and it will surely improve accuracy
 - Impelementation of the original U-Net model can also improve accuracy
-
-UPDATE : 
-
