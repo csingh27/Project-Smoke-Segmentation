@@ -57,5 +57,5 @@ New results are in the test_predictions_updated.jpg file
 
 ## Improved Results
 
-![Results](./test_predictions_updated.png "Images & annotations")
+![Results](./output.png "Images & annotations")
 
