@@ -1,8 +1,4 @@
-# Image Analysis – For detection of smoke, fire, dust in industrial environments #
-
-## Narrowing the scope ##  
-For purposes of prototyping the scope of the project has been restricted to detection of only smoke as an initial step.  
-
+# Smoke Segmentation #  
 ## Approach ##  
 * Smoke detection via semantic segmentation using _Baseline U-Net model_ and image augmentation in Keras
 * Finding the right model and dataset
