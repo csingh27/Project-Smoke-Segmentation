@@ -50,4 +50,7 @@ In Kaggle Airbus ship detection challenge, [Kevin Mader](https://www.kaggle.com/
 2. Export Labelbox images as CSV/ JSON files  
 3. Extract images from CSV/ JSON files  
 
+New dataset from Labelbox is exported as labelleddata_labelbox.csv  
+Extracted dataset combined with old data is in /dataset_updated
 Updated file in Smoke_Segmentation.ipynb (Original Implementation : U-Net.ipynb)  
+New results are in the test_predictions_updated.jpg file
