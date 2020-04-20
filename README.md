@@ -49,3 +49,5 @@ In Kaggle Airbus ship detection challenge, [Kevin Mader](https://www.kaggle.com/
 1. Label additional images using Labelbox  
 2. Export Labelbox images as CSV/ JSON files  
 3. Extract images from CSV/ JSON files  
+
+Updated file in Smoke_Segmentation.ipynb (Original Implementation : U-Net.ipynb)  
