@@ -36,8 +36,16 @@ In Kaggle Airbus ship detection challenge, [Kevin Mader](https://www.kaggle.com/
 ### Results
 ![Results](./predictions.png "Images & annotations")
 
+
+
 ---
 ## Scope of improvements
 - The dataset has around 400 images, adding more images to dataset can improve the accuracy
 - Proper annotation of smoke also affects the prediction of the model, maybe the annotations done in the dataset can be improved and it will surely improve accuracy
 - Impelementation of the original U-Net model can also improve accuracy
+
+## Improvements 
+- Collect more dataset
+1. Label additional images using Labelbox  
+2. Export Labelbox images as CSV/ JSON files  
+3. Extract images from CSV/ JSON files  
